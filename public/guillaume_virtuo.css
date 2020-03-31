@@ -1,0 +1,50 @@
+header
+{
+    background : rgb(155, 49, 255) ;
+    color:white;
+    border-width : 2px ;
+    border-color:black;
+    border-style : solid ;
+    border-radius : 10 px ;
+    box-shadow : 7px 7px 0px grey ;
+    width : 35% ;
+    margin-left: 32%;
+}
+
+body
+{
+    background : #AFAFAF ;
+}
+
+input {
+	border: 2px solid #765942;
+	border-radius: 10px;
+	height: 60px;
+	width: 230px;
+}
+
+section
+{
+    background-color: rgba(199, 252, 102, .5);
+    position:center;
+}
+
+div
+{
+    margin-top: 10px;
+    position: center;
+}
+
+button
+{
+    border-radius:12px 0 12px 0;
+	background: rgb(155, 49, 255);
+	border:none;
+	color:white;
+	font:bold 12px Verdana;
+	padding:8px 8px 8px 8px;
+    box-shadow:2px 2px 6px #999;
+    margin-left:50%;
+    margin-top: 10px;
+}
+
